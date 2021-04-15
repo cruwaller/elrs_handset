@@ -16,7 +16,7 @@ Other parts from e.g. Mouser, Digikey, LCSC, TME...
 Gerbers and BOM can be found from:
 https://easyeda.com/cruwaller/handset
 
-[pcb](images/PCB_v0.1.jpg)
+![pcb](images/PCB_v0.1.jpg)
 
 
 ## BOM
@@ -41,4 +41,4 @@ https://easyeda.com/cruwaller/handset
 
 TODO...
 
-[internals](images/REV-A_assembled.jpg)
+![internals](images/REV-A_assembled.jpg)
